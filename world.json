@@ -1,0 +1,63 @@
+{
+  "title": "Icewind Dale",
+  "description": "<p>Unter dem unnachgiebigen Nachthimmel stehst du vor einem gewaltigen Gletscher und rezitierst einen uralten Reim, wodurch sich ein Riss in der großen Eiswand bildet. Hinter diesem gähnenden Riss warten die Höhlen des Hungers auf dich. Und hinter diesem eisigen Verlies verbirgt sich ein Geheimnis, das so alt und furchterregend ist, dass nur wenige wagen, darüber zu sprechen.</p><p>Die verrückten Zauberer der Arkanen Bruderschaft sehnen sich danach, das zu besitzen, was der Gott des Zorns des Winters so kalt bewahrt hat - so wie ihr! Welche fantastischen Geheimnisse und Schätze sind im sonnenlosen Herzen des Gletschers verborgen, und was wird ihre Entdeckung für die Bewohner von Eiswindtal bedeuten</p><p>? Kannst du Zehn-Städte vor der ewigen Nacht der Frostmaiden retten?</p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Frostmaiden Creatures",
+      "type": "Actor",
+      "name": "frostmaiden-creatures",
+      "path": "packs/frostmaiden-creatures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Frostmaiden Scenes",
+      "type": "Scene",
+      "name": "frostmaiden-scenes",
+      "path": "packs/frostmaiden-scenes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Table-Backing Items",
+      "name": "srd5e-table-backing-item",
+      "type": "Item",
+      "path": "packs/srd5e-table-backing-item.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Table-Backing RollTables",
+      "name": "srd5e-table-backing-rolltable",
+      "type": "RollTable",
+      "path": "packs/srd5e-table-backing-rolltable.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "PC2",
+      "type": "Actor",
+      "name": "pc2",
+      "path": "packs/pc2.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "images/d49mnn8-1dddcb8a-18dd-4d75-af74-d10d151d0320.jpg",
+  "coreVersion": "10.284",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.2",
+  "id": "2022",
+  "compatibility": {
+    "verified": "10.284",
+    "minimum": "10"
+  }
+}
