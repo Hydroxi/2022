@@ -51,13 +51,13 @@
   ],
   "system": "dnd5e",
   "background": "images/d49mnn8-1dddcb8a-18dd-4d75-af74-d10d151d0320.jpg",
-  "coreVersion": "10.284",
+  "coreVersion": "10.285",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "2.0.2",
   "id": "2022",
   "compatibility": {
-    "verified": "10.284",
+    "verified": "10.285",
     "minimum": "10"
   }
 }
