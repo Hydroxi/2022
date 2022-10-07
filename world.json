@@ -47,17 +47,26 @@
       "system": "dnd5e",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "Frostmaid",
+      "type": "Scene",
+      "name": "frostmaid",
+      "path": "packs/frostmaid.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
     }
   ],
   "system": "dnd5e",
   "background": "images/d49mnn8-1dddcb8a-18dd-4d75-af74-d10d151d0320.jpg",
-  "coreVersion": "10.285",
+  "coreVersion": "10.286",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.0.2",
+  "systemVersion": "2.0.3",
   "id": "2022",
   "compatibility": {
-    "verified": "10.285",
+    "verified": "10.286",
     "minimum": "10"
   }
 }
