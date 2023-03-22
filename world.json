@@ -60,13 +60,13 @@
   ],
   "system": "dnd5e",
   "background": "images/d49mnn8-1dddcb8a-18dd-4d75-af74-d10d151d0320.jpg",
-  "coreVersion": "10.288",
+  "coreVersion": "10.291",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.0.3",
+  "systemVersion": "2.1.5",
   "id": "2022",
   "compatibility": {
-    "verified": "10.288",
+    "verified": "10.291",
     "minimum": "10"
   }
 }
