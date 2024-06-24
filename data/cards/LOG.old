@@ -1,0 +1,7 @@
+2024/04/23-18:23:52.592788 7fefe64ccb38 Recovering log #179
+2024/04/23-18:23:52.597039 7fefe64ccb38 Delete type=3 #177
+2024/04/23-18:23:52.597101 7fefe64ccb38 Delete type=0 #179
+2024/05/21-06:48:17.324068 7fed5a516b38 Level-0 table #185: started
+2024/05/21-06:48:17.324319 7fed5a516b38 Level-0 table #185: 0 bytes OK
+2024/05/21-06:48:17.325733 7fed5a516b38 Delete type=0 #183
+2024/05/21-06:48:17.331550 7fed5a516b38 Manual compaction at level-0 from '!cards!5jtDwyXMXcqfXpDw' @ 72057594037927935 : 1 .. '!cards.cards!eg783Q0PzXkiNZKo.wambVCkcJUdQP98U' @ 0 : 0; will stop at (end)

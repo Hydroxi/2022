@@ -1,0 +1,32 @@
+2024/04/23-18:23:52.825733 7fefe54c6b38 Recovering log #299
+2024/04/23-18:23:52.831687 7fefe54c6b38 Delete type=0 #299
+2024/04/23-18:23:52.831717 7fefe54c6b38 Delete type=3 #292
+2024/04/24-19:57:59.722522 7fed5a516b38 Level-0 table #305: started
+2024/04/24-19:57:59.748044 7fed5a516b38 Level-0 table #305: 941958 bytes OK
+2024/04/24-19:57:59.750749 7fed5a516b38 Delete type=0 #303
+2024/04/24-20:13:18.023829 7fed5a516b38 Compacting 1@0 + 1@1 files
+2024/04/24-20:13:18.028663 7fed5a516b38 Generated table #306@0: 8 keys, 25401 bytes
+2024/04/24-20:13:18.028698 7fed5a516b38 Compacted 1@0 + 1@1 files => 25401 bytes
+2024/04/24-20:13:18.051003 7fed5a516b38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/24-20:13:18.051143 7fed5a516b38 Delete type=2 #301
+2024/04/24-20:13:18.051305 7fed5a516b38 Delete type=2 #305
+2024/04/24-20:50:59.090295 7fed5a516b38 Level-0 table #308: started
+2024/04/24-20:50:59.113843 7fed5a516b38 Level-0 table #308: 943804 bytes OK
+2024/04/24-20:50:59.116326 7fed5a516b38 Delete type=0 #304
+2024/04/24-21:04:14.716817 7fed5a516b38 Compacting 1@0 + 1@1 files
+2024/04/24-21:04:14.730650 7fed5a516b38 Generated table #309@0: 8 keys, 25564 bytes
+2024/04/24-21:04:14.730680 7fed5a516b38 Compacted 1@0 + 1@1 files => 25564 bytes
+2024/04/24-21:04:14.731686 7fed5a516b38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/04/24-21:04:14.731847 7fed5a516b38 Delete type=2 #308
+2024/04/24-21:04:14.732101 7fed5a516b38 Delete type=2 #306
+2024/05/21-06:48:17.424474 7fed5a516b38 Level-0 table #311: started
+2024/05/21-06:48:17.435746 7fed5a516b38 Level-0 table #311: 564492 bytes OK
+2024/05/21-06:48:17.436898 7fed5a516b38 Delete type=0 #307
+2024/05/21-06:48:17.442773 7fed5a516b38 Manual compaction at level-0 from '!users!BXevmNTkvTvR3J9Z' @ 72057594037927935 : 1 .. '!users!l4VEXQJmRGQoiM96' @ 0 : 0; will stop at '!users!l4VEXQJmRGQoiM96' @ 3240 : 1
+2024/05/21-06:48:17.442793 7fed5a516b38 Compacting 1@0 + 1@1 files
+2024/05/21-06:48:17.446838 7fed5a516b38 Generated table #312@0: 8 keys, 25720 bytes
+2024/05/21-06:48:17.446856 7fed5a516b38 Compacted 1@0 + 1@1 files => 25720 bytes
+2024/05/21-06:48:17.450006 7fed5a516b38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/21-06:48:17.450079 7fed5a516b38 Delete type=2 #309
+2024/05/21-06:48:17.450173 7fed5a516b38 Delete type=2 #311
+2024/05/21-06:48:17.481968 7fed5a516b38 Manual compaction at level-0 from '!users!l4VEXQJmRGQoiM96' @ 3240 : 1 .. '!users!l4VEXQJmRGQoiM96' @ 0 : 0; will stop at (end)

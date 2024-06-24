@@ -1,0 +1,24 @@
+2024/04/23-18:23:52.569755 7fefe4cc3b38 Recovering log #322
+2024/04/23-18:23:52.580965 7fefe4cc3b38 Delete type=3 #316
+2024/04/23-18:23:52.581003 7fefe4cc3b38 Delete type=0 #322
+2024/04/24-20:10:27.441616 7fed5a516b38 Level-0 table #329: started
+2024/04/24-20:10:27.463582 7fed5a516b38 Level-0 table #329: 2132326 bytes OK
+2024/04/24-20:10:27.465841 7fed5a516b38 Delete type=0 #327
+2024/04/24-20:10:43.058839 7fed5a516b38 Compacting 1@1 + 1@2 files
+2024/04/24-20:10:43.085094 7fed5a516b38 Generated table #330@1: 1027 keys, 1348494 bytes
+2024/04/24-20:10:43.085118 7fed5a516b38 Compacted 1@1 + 1@2 files => 1348494 bytes
+2024/04/24-20:10:43.086015 7fed5a516b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/24-20:10:43.086279 7fed5a516b38 Delete type=2 #329
+2024/04/24-20:10:43.086654 7fed5a516b38 Delete type=2 #325
+2024/05/21-06:48:17.266261 7fed5a516b38 Level-0 table #332: started
+2024/05/21-06:48:17.292687 7fed5a516b38 Level-0 table #332: 1959902 bytes OK
+2024/05/21-06:48:17.294986 7fed5a516b38 Delete type=0 #328
+2024/05/21-06:48:17.325805 7fed5a516b38 Manual compaction at level-0 from '!actors!0ikAACgoKUHwqOgn' @ 72057594037927935 : 1 .. '!actors.items.effects!xtJJYq0atwVjSHVa.kSYPPzpmxBbAH5Sw.CMJZ9AGUJ25kfTl2' @ 0 : 0; will stop at (end)
+2024/05/21-06:48:17.331575 7fed5a516b38 Manual compaction at level-1 from '!actors!0ikAACgoKUHwqOgn' @ 72057594037927935 : 1 .. '!actors.items.effects!xtJJYq0atwVjSHVa.kSYPPzpmxBbAH5Sw.CMJZ9AGUJ25kfTl2' @ 0 : 0; will stop at '!actors.items!xtJJYq0atwVjSHVa.x4S0phyWpfsFUruc' @ 31777 : 1
+2024/05/21-06:48:17.331592 7fed5a516b38 Compacting 1@1 + 1@2 files
+2024/05/21-06:48:17.362973 7fed5a516b38 Generated table #333@1: 1049 keys, 1378791 bytes
+2024/05/21-06:48:17.363004 7fed5a516b38 Compacted 1@1 + 1@2 files => 1378791 bytes
+2024/05/21-06:48:17.363722 7fed5a516b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/21-06:48:17.363866 7fed5a516b38 Delete type=2 #332
+2024/05/21-06:48:17.364338 7fed5a516b38 Delete type=2 #330
+2024/05/21-06:48:17.367108 7fed5a516b38 Manual compaction at level-1 from '!actors.items!xtJJYq0atwVjSHVa.x4S0phyWpfsFUruc' @ 31777 : 1 .. '!actors.items.effects!xtJJYq0atwVjSHVa.kSYPPzpmxBbAH5Sw.CMJZ9AGUJ25kfTl2' @ 0 : 0; will stop at (end)
